@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/DavidRSoftware/Web-Space-Game/issues"
   },
-  "homepage": "https://github.com/DavidRSoftware/Web-Space-Game#readme"
+  "homepage": "https://github.com/DavidRSoftware/Web-Space-Game#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "path": "^0.12.7"
+  }
 }

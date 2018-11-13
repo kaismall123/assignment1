@@ -31,7 +31,8 @@ app.use(express.static(path.join(__dirname, "public")));
 
 app.get("/", function(req, res, next) {
   res.render("index", {
-    title: "Web Space Game"
+    title: "Bootstrap Template",
+    script: "/js/script.js"
   });
 });
 

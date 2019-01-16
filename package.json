@@ -1,25 +1,18 @@
 {
-  "name": "web-space-game",
+  "name": "template-website-bootstrap",
   "version": "1.0.0",
   "description": "A space exploration game developed for the web browser",
   "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express-handlebars": "^3.0.0",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DavidRSoftware/Web-Space-Game.git"
-  },
-  "author": "David",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/DavidRSoftware/Web-Space-Game/issues"
-  },
-  "homepage": "https://github.com/DavidRSoftware/Web-Space-Game#readme",
-  "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.3",
-    "express-handlebars": "^3.0.0",
-    "path": "^0.12.7"
-  }
+  "author": "",
+  "license": "ISC"
 }

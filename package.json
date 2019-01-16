@@ -1,7 +1,7 @@
 {
   "name": "template-website-bootstrap",
   "version": "1.0.0",
-  "description": "A space exploration game developed for the web browser",
+  "description": "A starter website to build Bootstrap applications",
   "main": "index.js",
   "dependencies": {
     "body-parser": "^1.18.3",
